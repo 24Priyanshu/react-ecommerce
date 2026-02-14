@@ -1,16 +1,58 @@
-# React + Vite
+# 🛒 React E-Commerce Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional e-commerce web application built using **React** and **Redux Toolkit**.  
+The application allows users to browse products, filter by categories, add items to cart, and manage cart state dynamically.
 
-Currently, two official plugins are available:
+🌐 **Live Demo:** https://priyanshu-e-commerce.netlify.app/
+📂 **GitHub Repository:** https://github.com/24Priyanshu/react-ecommerce
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🛍️ Product listing with category filtering
+- 🛒 Add to cart functionality
+- ❌ Remove single item from cart (handles duplicate products correctly)
+- 🔄 Global state management using Redux Toolkit
+- 📦 Dynamic cart updates
+- 📱 Responsive UI design
+- 📬 Contact form
+- 🚀 Deployed on Netlify
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- React.js
+- Redux Toolkit
+- React Router DOM
+- JavaScript (ES6+)
+- CSS3
+- Vite
+- React Icons
+
+---
+
+## 🧠 What I Learned
+
+- Managing global state using Redux Toolkit
+- Handling duplicate product logic in cart
+- Conditional rendering in React
+- Component-based architecture
+- Git & GitHub workflow
+- Deploying projects using Netlify
+
+---
+
+## 📸 Screenshots
+
+
+
+---
+
+## ⚙️ Installation (For Developers)
+
+Clone the repository:
+
+```bash
+git clone https://github.com/24Priyanshu/react-ecommerce.git
