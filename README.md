@@ -45,12 +45,6 @@ The application allows users to browse products, filter by categories, add items
 
 ---
 
-## 📸 Screenshots
-
-
-
----
-
 ## ⚙️ Installation (For Developers)
 
 Clone the repository:
