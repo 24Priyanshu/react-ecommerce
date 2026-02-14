@@ -4,6 +4,7 @@ A fully functional e-commerce web application built using **React** and **Redux 
 The application allows users to browse products, filter by categories, add items to cart, and manage cart state dynamically.
 
 🌐 **Live Demo:** https://priyanshu-e-commerce.netlify.app/
+
 📂 **GitHub Repository:** https://github.com/24Priyanshu/react-ecommerce
 
 ---
